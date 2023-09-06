@@ -1,0 +1,4 @@
+/Users/matthewng/Desktop/uvic/Spring2023/csc305/Assignment_5/build/CMakeFiles/assignment5.dir
+/Users/matthewng/Desktop/uvic/Spring2023/csc305/Assignment_5/build/CMakeFiles/examples.dir
+/Users/matthewng/Desktop/uvic/Spring2023/csc305/Assignment_5/build/CMakeFiles/edit_cache.dir
+/Users/matthewng/Desktop/uvic/Spring2023/csc305/Assignment_5/build/CMakeFiles/rebuild_cache.dir
